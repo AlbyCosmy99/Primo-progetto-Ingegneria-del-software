@@ -1,4 +1,4 @@
-#Link progetto completo
+# Link progetto completo
 https://mega.nz/folder/FDtykbBK#oczQ-Dtd692ABkOX4YofZQ
 # Primo-progetto-Ingegneria-del-software
 Primo progetto corso Ingegneria del software, voto 29/30. Il secondo e ultimo progetto non era di programmazione. Insieme formavano l'esame, passato con 29/30, data 16/09/2021. 
