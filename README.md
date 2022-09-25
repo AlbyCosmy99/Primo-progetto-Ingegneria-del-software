@@ -1,6 +1,6 @@
 # Primo-progetto-Ingegneria-del-software
 Primo progetto corso Ingegneria del software, voto 29/30. Il secondo e ultimo progetto non era di programmazione. Insieme formavano l'esame, passato con 29/30, data 16/09/2021. 
-#richiesta da soddisfare:
+# richiesta da soddisfare:
 Supponete di essere in ambiente Java Micro Edition, precisamente CLDC1.1
 ( https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.1/jsr139/index.html )
 Supponete di voler utilizzare in questo ambiente una libreria di classi (myLib) nata in ambiente J2SE 1.4.2
